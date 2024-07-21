@@ -1,0 +1,31 @@
+.header {
+    text-align: center;
+    padding-top: 50px;
+}
+.box {
+    padding: 50px;
+}
+.box2 {
+    height: 600px;
+}
+#translation-language {
+    height: 35px;
+    width: 200px;
+    border: black;
+    border-radius: 7px;
+    padding: 7px;
+}
+.list{
+    display: flex;
+    justify-content: space-between;
+}
+textarea{
+    height:auto;
+    width: fit-content;
+    border-radius: 10px;
+}
+.button{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+}
